@@ -1180,6 +1180,7 @@ address {
         margin: 10px auto 0;
     }
 }
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
